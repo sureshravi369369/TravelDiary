@@ -1,0 +1,17 @@
+.title{
+    background-color: crimson;
+    margin-left:10rem;
+    margin-right: 10rem;
+    text-align: center;
+    padding: .6rem 0rem;
+}
+
+@media screen and (max-width:940px){
+    
+    .title{
+        background-color: crimson;
+        margin: auto;
+        text-align: center;
+        padding: .6rem 0rem;
+    }
+}
